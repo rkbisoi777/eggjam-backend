@@ -18,7 +18,10 @@
 		<java.version>11</java.version>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
+<<<<<<< HEAD
 		<maven.compiler.release>11</maven.compiler.release>
+=======
+>>>>>>> 54cfff4da33b00ed23e89f6dcdc2af650c19ccf7
 	</properties>
 	<dependencies>
 		<dependency>
